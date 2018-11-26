@@ -4,12 +4,12 @@
 
 # 参考
 
-* [https://www.hirominomi.com/writefile/#i-3:title]
+* https://www.hirominomi.com/writefile/#i-3
 
 ## Qt要素
 
-* [http://doc.qt.io/qt-5/qfile.html:title]
-* [http://doc.qt.io/qt-5/qtextstream.html:title]
+* http://doc.qt.io/qt-5/qfile.html
+* http://doc.qt.io/qt-5/qtextstream.html
 
 # 開発環境
 
